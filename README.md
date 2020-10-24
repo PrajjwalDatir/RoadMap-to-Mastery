@@ -19,11 +19,13 @@
     it will host your whole code in an online editor -> https://codesandbox.io
 
 2. [My Web Development Library - Youtube]() 
-### Curriculum Guide CS Btech
-- Geeksforgeeks
-- TutorialsPoint
 
 3. [This](https://discord.com/channels/713418735532114034/713450850625781771) Discord channel has lot of good resources.
+
+
+### Curriculum Guide CS Btech
+    - Geeksforgeeks
+    - TutorialsPoint
 
 ### CP Guide
 - [All CP Algorithms](https://cp-algorithms.com/)
@@ -43,6 +45,7 @@
 ### Web Development Guide
 
 - **Common**
+    - [ ](https://codingphase.teachable.com/courses/enrolled/328397)
     - [x] HTML
     - [x] CSS
     - [x] Bootstrap
@@ -76,6 +79,10 @@
     - [ ] phpmyadmin
     - [ ] XAMPP
     - [ ] LAMP
+    - [ ] Laravel 
+        - ### source:
+
+        1. [TutorialsPoint](https://www.tutorialspoint.com/laravel/index.html)
 - **Wordpress**
     - [ ] Wordpress
     - [ ] Wordpress plugins
@@ -100,8 +107,6 @@
 
 
 - #### Wordpress Developement Guide
-
-
 
 - #### Learn Typescript (Legendary)
 
