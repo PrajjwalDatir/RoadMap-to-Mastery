@@ -60,7 +60,7 @@
 ***
 
 ### My personlity Guide
-- My personlity according to ``www16personalities.com`` </br> ---> [https://www.16personalities.com/infj-personality](https://www.16personalities.com/infj-personality)
+- Check your personlity according to ``www16personalities.com`` </br> Here's what I got ---> [https://www.16personalities.com/infj-personality](https://www.16personalities.com/infj-personality)
 
 
 ***
