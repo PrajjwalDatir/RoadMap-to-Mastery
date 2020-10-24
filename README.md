@@ -1,5 +1,6 @@
 # RoadMap-to-Mastery
 
+
 ### Some Books
 - https://github.com/PrajjwalDatir/books-1
 ### Tips
@@ -34,26 +35,46 @@
 - [Practice this to get into FAANG (Fb, Apple, Amazon, Netflix, Google)](https://github.com/jwasham/coding-interview-university)
 ### Web Development Guide
 
-- #### MERN Development Guide
-    - [Node based Practices (github blog)](https://github.com/goldbergyoni/nodebestpractices)
+- **Common**
+    - [x] HTML
+    - [x] CSS
+    - [x] Bootstrap
+    - [ ] apache server
+- **Python3**
+    - [x] Python3
+    - [ ] Flask
+    - [ ] Django
+- **Javascript**
+    - [ ] Javascript
+    - [ ] Typescript
+    - [ ] MERN
+    - [ ] MEAN
+- **Php**
+    - [ ] Php
+    - [ ] phpmyadmin
+    - [ ] XAMPP
+    - [ ] LAMP
+- **Wordpress**
+    - [ ] Wordpress
+    - [ ] Wordpress plugins
 
-***
-
-- #### LAMP Development Guide
-
-***
-
-- #### Wordpress Developement Guide
-
-***
-
-- #### MEAN Development Guide
-
-***
 
 - #### Learn Javascript (Legendary)
 
-***
+
+- #### MERN Development Guide
+    - [Node based Practices (github blog)](https://github.com/goldbergyoni/nodebestpractices)
+
+
+- #### MEAN Development Guide
+
+
+- #### LAMP Development Guide
+
+
+- #### Wordpress Developement Guide
+
+
 
 - #### Learn Typescript (Legendary)
 
@@ -72,6 +93,10 @@ _Thanks to **sentdex**_
 Tutorial by Harrison - for doubts ->
 Contact: Harrison@pythonprogramming.net.
 
+- [ ] Basic discord
+- [ ] Little Advanced
+- [ ] Timing Bot Actions
+- [ ] Embedding and ATtaching w/ Image Example
 - [Basic Discord bot intro](https://pythonprogramming.net/discordpy-basic-bot-tutorial-introduction/)
     - Python library ``discordpy``
     - **Docs**
