@@ -44,8 +44,9 @@
 - [Practice this to get into FAANG (Fb, Apple, Amazon, Netflix, Google)](https://github.com/jwasham/coding-interview-university)
 ### Web Development Guide
 
+- [ Web Dev Setup ](https://codingphase.teachable.com/courses/enrolled/328397)
+
 - **Common**
-    - [ ](https://codingphase.teachable.com/courses/enrolled/328397)
     - [x] HTML
     - [x] CSS
     - [x] Bootstrap
@@ -98,6 +99,9 @@
 
     3. [Learn React js via RobinWieruch](https://www.robinwieruch.de/learn-react-js)
 
+    4. [Mern Stack A-Z part 1 dev.<span>to](https://dev.to/bnevilleoneill/mern-stack-a-to-z-part-1-564j)
+
+    5. [Mern Stack A-Z part 2 dev.<span>to](https://dev.to/bnevilleoneill/mern-stack-a-to-z-part-2-26pi)
 
 
 - #### MEAN Development Guide
@@ -118,10 +122,13 @@
 - Some Good Courses
     - [ ] [send-professional-emails By Google](https://learndigital.withgoogle.com/digitalgarage/course/send-professional-emails)
 
-    - [ ] []()
+    - [ ] ![Productivity Image](./productivity.jpg)
+<!-- 
+    - [ ] <img src="./productivity.jpg"
+     alt="Productivity Image"
+     style="float: left; margin-right: 1px;"/> -->
 
 ***
-
 
 ### Discord Bot Guide:
 _Thanks to **sentdex**_
@@ -148,3 +155,10 @@ Contact: Harrison@pythonprogramming.net.
 - [Embedding and Attaching w/ Image Example](https://pythonprogramming.net/attaching-files-images-embed-discordpy-bot-tutorial/)
     - Video recommended : [Embedding and Attaching w/ Image Example](https://youtu.be/MJDjVcfm-r0)
 
+### TODO
+
+1. https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/send-professional-emails/send-professional-emails/introduction-to-send-professional-emails.html#
+
+2. http://foss.coep.org.in/coepwiki/index.php/HTTP_Server_Project
+
+3. 
