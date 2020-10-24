@@ -1,5 +1,7 @@
 # RoadMap-to-Mastery
 
+### Some Books
+- https://github.com/PrajjwalDatir/books-1
 ### Tips
 1.  To everyone who is having trouble  hosting your code online, here is an easy hack to host your website in 10 seconds. 
 
@@ -81,3 +83,4 @@ Contact: Harrison@pythonprogramming.net.
     - Video recommended : [Timing bot actions](https://youtu.be/lrwwN31QxPw)
 - [Embedding and Attaching w/ Image Example](https://pythonprogramming.net/attaching-files-images-embed-discordpy-bot-tutorial/)
     - Video recommended : [Embedding and Attaching w/ Image Example](https://youtu.be/MJDjVcfm-r0)
+
