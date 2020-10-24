@@ -17,19 +17,26 @@
     https://githubbox.com/PrajjwalDatir/my_profile
 
     it will host your whole code in an online editor -> https://codesandbox.io
+
+2. [My Web Development Library - Youtube]() 
 ### Curriculum Guide CS Btech
 - Geeksforgeeks
 - TutorialsPoint
 
+3. [This](https://discord.com/channels/713418735532114034/713450850625781771) Discord channel has lot of good resources.
+
 ### CP Guide
-- Codeforces
-- Codechef
-- Hackerrank
-- Interviewbit
+- [All CP Algorithms](https://cp-algorithms.com/)
+
+- Practice sites :
+    - [Codeforces](https://codeforces.com/)
+    - [Codechef](https://www.codechef.com/)
+    - [Hackerrank](https://www.hackerrank.com/)
+    - [Interviewbit](https://www.interviewbit.com/practice/)
 
 ### DSA Guide
-- Geeksforgeeks
-- TutorialsPoint
+- [Geeksforgeeks](https://www.geeksforgeeks.org/)
+- [TutorialsPoint Library](https://www.tutorialspoint.com/tutorialslibrary.htm)
 
 ### Interview Guide
 - [Practice this to get into FAANG (Fb, Apple, Amazon, Netflix, Google)](https://github.com/jwasham/coding-interview-university)
@@ -48,6 +55,21 @@
     - [ ] Javascript
     - [ ] Typescript
     - [ ] MERN
+        - [ ] MongoDB
+        - [ ] Express.js
+        - [ ] React.js
+            - ### Source :
+            1. [Basics of React in 10-20min](https://medium.com/@madhupathy/learn-basics-of-react-js-in-3-minutes-a94cbc6f02c8)
+
+            2. [Roadmap to React via FreeCodeCamp](https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/)
+
+            3. [Learn React js via RobinWieruch](https://www.robinwieruch.de/learn-react-js)
+
+        - [ ] Node.js
+            - ### Source :
+
+            1. [Node based Practices (github blog)](https://github.com/goldbergyoni/nodebestpractices)
+
     - [ ] MEAN
 - **Php**
     - [ ] Php
@@ -63,7 +85,12 @@
 
 
 - #### MERN Development Guide
-    - [Node based Practices (github blog)](https://github.com/goldbergyoni/nodebestpractices)
+    1. [Node based Practices (github blog)](https://github.com/goldbergyoni/nodebestpractices)
+    
+    2. [Roadmap to React via FreeCodeCamp](https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/)
+
+    3. [Learn React js via RobinWieruch](https://www.robinwieruch.de/learn-react-js)
+
 
 
 - #### MEAN Development Guide
@@ -83,6 +110,10 @@
 ### My personlity Guide
 - Check your personlity according to ``www16personalities.com`` </br> Here's what I got ---> [https://www.16personalities.com/infj-personality](https://www.16personalities.com/infj-personality)
 
+- Some Good Courses
+    - [ ] [send-professional-emails By Google](https://learndigital.withgoogle.com/digitalgarage/course/send-professional-emails)
+
+    - [ ] []()
 
 ***
 
