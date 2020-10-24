@@ -30,9 +30,12 @@
 - Geeksforgeeks
 - TutorialsPoint
 
+### Interview Guide
+- [Practice this to get into FAANG (Fb, Apple, Amazon, Netflix, Google)](https://github.com/jwasham/coding-interview-university)
 ### Web Development Guide
 
 - #### MERN Development Guide
+    - [Node based Practices (github blog)](https://github.com/goldbergyoni/nodebestpractices)
 
 ***
 
