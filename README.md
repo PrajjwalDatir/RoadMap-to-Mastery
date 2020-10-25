@@ -27,6 +27,9 @@
     - Geeksforgeeks
     - TutorialsPoint
 
+### DBMS Guide
+- [Database by InternLabs](https://github.com/internlabs/database)
+
 ### CP Guide
 - [All CP Algorithms](https://cp-algorithms.com/)
 
@@ -39,7 +42,7 @@
 ### DSA Guide
 - [Geeksforgeeks](https://www.geeksforgeeks.org/)
 - [TutorialsPoint Library](https://www.tutorialspoint.com/tutorialslibrary.htm)
-
+- [DSA by InternLabs](https://github.com/internlabs/dsa)
 ### Interview Guide
 - [Practice this to get into FAANG (Fb, Apple, Amazon, Netflix, Google)](https://github.com/jwasham/coding-interview-university)
 ### Web Development Guide
@@ -155,10 +158,12 @@ Contact: Harrison@pythonprogramming.net.
 - [Embedding and Attaching w/ Image Example](https://pythonprogramming.net/attaching-files-images-embed-discordpy-bot-tutorial/)
     - Video recommended : [Embedding and Attaching w/ Image Example](https://youtu.be/MJDjVcfm-r0)
 
-### TODO
+### TODO ( Personal - others may ignore )
 
 1. https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/send-professional-emails/send-professional-emails/introduction-to-send-professional-emails.html#
 
 2. http://foss.coep.org.in/coepwiki/index.php/HTTP_Server_Project
 
-3. 
+3. https://github.com/internlabs/dsa
+
+4. https://github.com/internlabs/database
