@@ -136,6 +136,36 @@
 
 ***
 
+### LinkedIn
+
+```
+Respected Ma'am,
+I am Prajjwal Datir, currently pursuing 3rd year Btech in Computer Engineering from College Of Engineering, Pune. I am currently looking for Summer internship, 
+     I am an enthusiastic learner who constantly tries to learn new skills. I am proficient in DS and Algo with a fair amount of practice in it. I have had programming practice in languages like python, C++, C,  and Javascript. I have done some projects and am willing to work in web development domain. I have also worked on some frameworks Flask, Node.js, MySql (Database) and I am willing to adapt to the company's requirements. I would be very grateful if you give me a referral in your company for an internship. I would love to contribute towards reaching the goal of the company as well as honing my skills.
+
+I can attach my resume for your reference, for more insights about my technical and extra curricular skills. Do let me know what do you think about this. 
+
+Thanks and regards, 
+Prajjwal Datir
+```
+
+```
+Hey Xyz,
+
+I really appreciate you connecting with me.
+
+I wanted to share 3 quick things about myself  -
+
+- I'm really into Web development and Finding solutions to everyday problems using Code, which has lead me to create an "oneforall" bash script few projects and also learn Py, Bash, JS, Flask, Node.js, etc. Currently I'm exploring more about MERN and learning as much as possible while persuing my CS grad.
+
+- pick a thing from that person's bio and write something related.
+
+- I love fiddling around various Operating Systems and Different DEs.
+
+Would love to know what you are upto :)
+
+Cheers!
+```
 ### Discord Bot Guide:
 _Thanks to **sentdex**_
 
