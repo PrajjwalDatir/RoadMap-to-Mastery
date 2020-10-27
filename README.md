@@ -32,12 +32,15 @@
 
 ### CP Guide
 - [All CP Algorithms](https://cp-algorithms.com/)
+- [cses problem set](https://cses.fi/problemset/)
 
 - Practice sites :
-    - [Codeforces](https://codeforces.com/)
-    - [Codechef](https://www.codechef.com/)
-    - [Hackerrank](https://www.hackerrank.com/)
-    - [Interviewbit](https://www.interviewbit.com/practice/)
+    **Follow me XD if you find this guide helpful**
+    - [Leetcode](https://leetcode.com/prajjwaldatir/)
+    - [Codeforces](https://codeforces.com/siriusxmaniac)
+    - [Codechef](https://www.codechef.com/siriusxmaniac)
+    - [Hackerrank](https://www.hackerrank.com/prajjwal_coep)
+    - [Interviewbit](https://www.interviewbit.com/profile/prajjwal-datir)
 
 ### DSA Guide
 - [Geeksforgeeks](https://www.geeksforgeeks.org/)
