@@ -140,13 +140,21 @@
 
 ```
 Respected Ma'am,
-I am Prajjwal Datir, currently pursuing 3rd year Btech in Computer Engineering from College Of Engineering, Pune. I am currently looking for Summer internship, 
-     I am an enthusiastic learner who constantly tries to learn new skills. I am proficient in DS and Algo with a fair amount of practice in it. I have had programming practice in languages like python, C++, C,  and Javascript. I have done some projects and am willing to work in web development domain. I have also worked on some frameworks Flask, Node.js, MySql (Database) and I am willing to adapt to the company's requirements. I would be very grateful if you give me a referral in your company for an internship. I would love to contribute towards reaching the goal of the company as well as honing my skills.
+I am Prajjwal Datir, currently pursuing 3rd year Btech in Computer Engineering from College Of Engineering, Pune. I am currently looking for Summer internship, Here's little about me,
+     - an enthusiastic learner who constantly tries to learn new skills. 
+     - proficient in DS and Algo with a fair amount of practice in it. 
+     - programming practice in languages like python, C++, C,  and Javascript. 
+     - done projects in Python, Flask, Javascript, Node.js, C, Php, MySql, etc
+     - willing to work in web development domain. 
+     - willing to adapt to the company's requirements.
+
+     I would be very grateful if you give me a referral in your company for an internship, 
+     as I would love to contribute towards reaching the goal of the company as well as honing my skills.
 
 I can attach my resume for your reference, for more insights about my technical and extra curricular skills. Do let me know what do you think about this. 
 
 Thanks and regards, 
-Prajjwal Datir
+    Prajjwal Datir
 ```
 
 ```
