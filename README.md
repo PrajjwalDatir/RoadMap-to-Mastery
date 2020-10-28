@@ -164,7 +164,7 @@ I really appreciate you connecting with me.
 
 I wanted to share 3 quick things about myself  -
 
-- I'm really into Web development and Finding solutions to everyday problems using Code, 
+- I've striven to get hold over web development and Finding solutions to everyday problems using Code, 
 I have done some projects and have learnt Py, Bash, JS, Flask, Node.js, LAMP, etc. 
 Currently I'm exploring more about MERN and learning as much as possible while persuing my CS grad.
 
