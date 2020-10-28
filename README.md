@@ -164,11 +164,13 @@ I really appreciate you connecting with me.
 
 I wanted to share 3 quick things about myself  -
 
-- I'm really into Web development and Finding solutions to everyday problems using Code, which has lead me to create an "oneforall" bash script few projects and also learn Py, Bash, JS, Flask, Node.js, etc. Currently I'm exploring more about MERN and learning as much as possible while persuing my CS grad.
-
-- pick a thing from that person's bio and write something related.
+- I'm really into Web development and Finding solutions to everyday problems using Code, 
+I have done some projects and have leart Py, Bash, JS, Flask, Node.js, LAMP, etc. 
+Currently I'm exploring more about MERN and learning as much as possible while persuing my CS grad.
 
 - I love fiddling around various Operating Systems and Different DEs.
+
+- pick a thing from that person's bio and write something related.
 
 Would love to know what you are upto :)
 
