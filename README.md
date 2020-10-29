@@ -3,6 +3,8 @@
 
 ### Some Books
 - https://github.com/PrajjwalDatir/books-1
+- https://github.com/PrajjwalDatir/Resources
+
 ### Tips
 1.  To everyone who is having trouble  hosting your code online, here is an easy hack to host your website in 10 seconds. 
 
