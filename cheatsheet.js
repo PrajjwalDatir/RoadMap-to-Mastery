@@ -21,7 +21,7 @@
 
 // for - looping
 const emojis = [ '😀', '😆', '🙃', '😍' ];
-const wavingEmojis = ;
+const wavingEmojis = [];
 
 for (let i = 0; i < emojis.length; i++) { wavingEmojis.push(`👋${emojis[i]}👋`); }
 
@@ -29,9 +29,10 @@ for (let i = 0; i < emojis.length; i++) { wavingEmojis.push(`👋${emojis[i]}�
 emojis.forEach((emoji) => console.log(emoji));
 
 // map - array method for looping BUT IT HAS RETURNS
-const wavingEmojis = emojis.map((emoji) => `👋${emoji}👋`);
+const wavingEmojis2 = emojis.map((emoji) => `👋${emoji}👋`);
 
 // filter const numbers = [ 1, 2, 3, 4, 5, 6, 7, 8, 9 ];
+const numbers = [ 1, 2, 3, 4, 5, 6, 7, 8, 9 ];
 const numbersBiggerThanFive = numbers.filter((number) => number > 5);
 
 // sort const numbers = [ 3, 4, 1, 5, 4, 7, 2, 23, 12 ];
@@ -40,8 +41,8 @@ const sortFromLargest = numbers.sort((a, b) => b - a);
 
 // VALUE VS REFERENCE (part 1: intro)
 // arrays
-const numbers = [ 1, 2, 3, 4 ]; // #123asd
-const anotherNumbers = numbers; // #123asd
+const numbers2 = [ 1, 2, 3, 4 ]; // #123asd
+const anotherNumbers = numbers2; // #123asd
 anotherNumbers.push(5);
 
 // objects
