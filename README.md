@@ -212,3 +212,5 @@ Contact: Harrison@pythonprogramming.net.
 3. https://github.com/internlabs/dsa
 
 4. https://github.com/internlabs/database
+
+5. ```\\wsl$\Ubuntu\home\maniac\code``` My WSL location
