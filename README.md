@@ -61,15 +61,15 @@
     - [ ] apache server
 - **Python3**
     - [x] Python3
-    - [ ] Flask
+    - [x] Flask
     - [ ] Django
 - **Javascript**
-    - [ ] Javascript
-    - [ ] Typescript
-    - [ ] MERN
-        - [ ] MongoDB
-        - [ ] Express.js
-        - [ ] React.js
+    - [x] Javascript
+    - [x] Typescript
+    - [x] MERN
+        - [x] MongoDB
+        - [x] Express.js
+        - [x] React.js
             - ### Source :
             1. [Basics of React in 10-20min](https://medium.com/@madhupathy/learn-basics-of-react-js-in-3-minutes-a94cbc6f02c8)
 
@@ -77,7 +77,7 @@
 
             3. [Learn React js via RobinWieruch](https://www.robinwieruch.de/learn-react-js)
 
-        - [ ] Node.js
+        - [x] Node.js
             - ### Source :
 
             1. [Node based Practices (github blog)](https://github.com/goldbergyoni/nodebestpractices)
@@ -202,15 +202,3 @@ Contact: Harrison@pythonprogramming.net.
     - Video recommended : [Timing bot actions](https://youtu.be/lrwwN31QxPw)
 - [Embedding and Attaching w/ Image Example](https://pythonprogramming.net/attaching-files-images-embed-discordpy-bot-tutorial/)
     - Video recommended : [Embedding and Attaching w/ Image Example](https://youtu.be/MJDjVcfm-r0)
-
-### TODO ( Personal - others may ignore )
-
-1. https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/send-professional-emails/send-professional-emails/introduction-to-send-professional-emails.html#
-
-2. http://foss.coep.org.in/coepwiki/index.php/HTTP_Server_Project
-
-3. https://github.com/internlabs/dsa
-
-4. https://github.com/internlabs/database
-
-5. ```\\wsl$\Ubuntu\home\maniac\code``` My WSL location
